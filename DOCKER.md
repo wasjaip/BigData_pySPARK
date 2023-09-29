@@ -16,9 +16,9 @@
 2. Откройте `powershell.exe` от администратора.
 3. Введите команды:  
 
-wsl bash
-cd C:\pySPARK_папка
-docker build -t my_spark_image:latest .
+* wsl bash
+* cd C:\pySPARK_папка
+* docker build -t my_spark_image:latest .
 
 
 ### Запуск локального кластера
@@ -33,9 +33,9 @@ docker build -t my_spark_image:latest .
 3. В файле .wslconfig добавьте:
    
 [wsl2]
-memory=10GB
-processors=4
-swap=2GB
+8 memory=10GB
+8 processors=4
+8 swap=2GB
 
 4. Сохраните и закройте файл.
 5. Перезапустите WSL 2, выполнив команды:
