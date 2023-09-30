@@ -37,7 +37,7 @@
 
   
 ### Ноутбук с анализом:
-Для интерактивного изучения процесса анализа и результатов предоставлен [ноутбук на GitHub](https://github.com//wasjaip/BigData_pySPARK/taxi.ipynb).
+Для интерактивного изучения процесса анализа и результатов предоставлен [ноутбук на GitHub](https://github.com/wasjaip/BigData_pySPARK/blob/main/Chicago_taxi.ipynb).
 
 ## Заключение
 
